@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Laravel!
+
 "A 'C' is closer to an 'A' than to 'Z'" - Me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomarine&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
